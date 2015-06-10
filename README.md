@@ -4,7 +4,7 @@
 このプログラムはシューティングゲームプログラムです。  
 対象環境はwindowsで、開発にはvisual studio 2013および、
 平山尚著『ゲームプログラマになる前に憶えておきたい技術』付属のライブラリ（2012Ver）を使用しました。  
-ライブラリは
+ライブラリは  
 　　http://www.shuwasystem.co.jp/support/7980html/2118.html  
 からダウンロードできます。  
 実行ファイルはinvader3dフォルダの中のinvader3d.exeです。
